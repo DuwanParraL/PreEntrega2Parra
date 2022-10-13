@@ -1,0 +1,25 @@
+/*
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+nav ul li a::before {
+    display: block;
+    content: "";
+    width: 0%;
+    background: #444;
+    height: 5px;
+    top: 0;
+    position:inherit;
+    transition: width 350ms;
+    }
+nav ul li a:hover::before{
+    width: 100%;
+} */
+
+
+
+/* .imgcard{
+    width: 500px;
+    height: 450px;} */
